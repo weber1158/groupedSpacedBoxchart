@@ -4,7 +4,8 @@ Boxcharts with space between groups (MATLAB function).
 ## Purpose
 Inspired by Sudhee's question on MATLAB Answers (https://www.mathworks.com/matlabcentral/answers/2120996), the `groupedSpacedBoxchart` function is a modified version of the base function `boxchart`. The modified function adds extra space between grouped data in a boxchart visualization, thereby making it easier to distinguish between the groups.
 
-![groupedSpacedBoxchart example.](groupedSpacedBoxchartIm.jpg "groupedSpacedBoxchart example.")
+
+<img src="groupedSpacedBoxchartIm.jpg" alt="groupedSpacedBoxchart" width="600"/>
 
 ## Documentation
 **Syntax**
